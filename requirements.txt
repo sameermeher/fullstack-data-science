@@ -1,3 +1,6 @@
 ipykernel
 pandas
 Pillow
+matplotlib-inline
+matplotlib
+scipy
