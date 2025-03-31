@@ -4,3 +4,5 @@ Pillow
 matplotlib-inline
 matplotlib
 scipy
+opencv-python
+scikit-learn
